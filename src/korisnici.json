@@ -1,0 +1,29 @@
+[
+    {
+        "Id": "baafc548-1b9b-4f29-8fd3-00aeb8a7e233",
+        "Username": "pperic",
+        "Ime": "Pero",
+        "Prezime": "Perić",
+		"Lozinka": "password1",
+		"OIB":"61022112045",
+		"Država_Id":"c7082b4f-fd20-4ee6-a026-919d1d5eb3d5"
+    },
+    {
+        "Id": "13e42dec-b0d6-4134-9b1b-f0ae44676365",
+        "Username": "owalker",
+        "Ime": "Olivia",
+        "Prezime": "Walker",
+		"Lozinka": "password2",
+		"OIB":"45771086001",
+		"Država_Id":"d4eb36e8-b46a-4731-b124-21e9bde7539f"
+    },
+	    {
+        "Id": "66d5430b-322f-4ca9-a4c2-8bebab818a90",
+        "Username": "eschulz",
+        "Ime": "Emma",
+        "Prezime": "Schulz",
+		"Lozinka": "password3",
+		"OIB":"84883895772",
+		"Država_Id":"7e876478-b994-4c5c-984c-325fbe6f156f"
+    }
+]

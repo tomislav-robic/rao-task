@@ -1,0 +1,17 @@
+[
+    {
+        "Id": "c7082b4f-fd20-4ee6-a026-919d1d5eb3d5",
+        "Šifra_države": "1234",
+        "Naziv_države": "Hrvatska"
+    },
+    {
+        "Id": "d4eb36e8-b46a-4731-b124-21e9bde7539f",
+        "Šifra_države": "3124",
+        "Naziv_države": "Engleska"
+    },
+	    {
+        "Id": "7e876478-b994-4c5c-984c-325fbe6f156f",
+        "Šifra_države": "5213",
+        "Naziv_države": "Njemačka"
+    }
+]
