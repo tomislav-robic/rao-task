@@ -47,10 +47,10 @@ export class HttpClientKorisnikService extends KorisniciService {
     );
   }
  
-  searchKorisnik(term: string): Observable<Korisnik[]> {
-    term = term.trim();
-    const options = term ?
-    { params: new HttpParams().set('name', term)} : {};
+  searchKorisnik(username: string): Observable<Korisnik[]> {
+    username = username.trim();
+    const options = username ?
+    { params: new HttpParams().set('username', username)} : {};
  
     return this.http.get<Korisnik[]>(this.korisniciUrl, options).pipe(
       catchError(this.handleError)
